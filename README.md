@@ -1,21 +1,16 @@
-<a href="https://github.com/isobeyan/isobeyan">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isobeyan/isobeyan/main/dark_mode.svg">
-    <img alt="Shahib's GitHub Profile README" src="https://raw.githubusercontent.com/isobeyan/isobeyan/main/light_mode.svg">
-  </picture>
-</a>
+## Hello there! I'm Shahib.
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Data Analytics.
+- 👯 I’m looking to collaborate on research papers.
+- 🤔 I’m looking for help with building a data analyst portfolio.
+- 💬 Ask me about medical scribing.
+- 📫 How to reach me: anowermdshahib@gmail.com
+- 😄 Pronouns: he/his/him
 <!--
 **isobeyan/isobeyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
