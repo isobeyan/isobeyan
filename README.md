@@ -1,10 +1,9 @@
 ## Hello there! I'm Shahib.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Data Analytics.
+- 🔭 I’m currently working on Research Projects
+- 🌱 I’m currently learning CCNA.
 - 👯 I’m looking to collaborate on research papers.
-- 🤔 I’m looking for help with building a data analyst portfolio.
-- 💬 Ask me about medical scribing.
+- 💬 Ask me about medical scribing, computer networks and federated learning.
 - 📫 How to reach me: anowermdshahib@gmail.com
 - 😄 Pronouns: he/his/him
 <!--
