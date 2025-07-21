@@ -1,9 +1,9 @@
 ## Hello there! I'm Shahib.
 
-- 🔭 I’m currently working on Research Projects
-- 🌱 I’m currently learning CCNA.
-- 👯 I’m looking to collaborate on research papers.
-- 💬 Ask me about medical scribing, computer networks and federated learning.
+<!-- - 🔭 I’m currently working on N/A-->
+- 🌱 I’m currently learning Computer Networks.
+- 👯 I’m looking to collaborate on research papers with domain in IoT, Health Informatics, and Federated Learning.
+- 💬 Ask me about medical scribing and computer networks.
 - 📫 How to reach me: anowermdshahib@gmail.com
 - 😄 Pronouns: he/his/him
 <!--
